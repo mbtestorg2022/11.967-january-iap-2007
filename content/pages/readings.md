@@ -32,9 +32,9 @@ Economic Data Sources and Profiling the Local and Regional Economy
 {{< tdopen >}}
 
 
-Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." _Urban Market Initiative_, July 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.brookings.edu/research/using-information-to-drive-change-new-ways-of-moving-markets/))
+Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." _Urban Market Initiative_, July 2004. ([PDF](https://www.brookings.edu/research/using-information-to-drive-change-new-ways-of-moving-markets/))
 
-Reamer, A., and J. Cortright. Chapter 3 in _Socioeconomic Data for Understanding Your Regional Economy._ Newton, MA: Andrew Reamer and Associates, 1998, pp. 23-46. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econdata.net/wp-content/uploads/2014/12/uguide.pdf))
+Reamer, A., and J. Cortright. Chapter 3 in _Socioeconomic Data for Understanding Your Regional Economy._ Newton, MA: Andrew Reamer and Associates, 1998, pp. 23-46. ([PDF](http://econdata.net/wp-content/uploads/2014/12/uguide.pdf))
 
 Mt. Auburn Associates. _A Strategy for Fairhaven's Economic Future._ pp. 8 -10, A1- A8, data tables and figures. (Unpublished report, 1993.)
 
